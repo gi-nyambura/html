@@ -21,6 +21,7 @@ All the code (HTML, CSS, and JavaScript) is contained inside a single file: `ind
 - Smooth scrolling animations
 - Scroll reveal effects
 
+## DEMO link: https://html-4bga1msq6-gi-nyamburas-projects.vercel.app/
 ---
 
 Created as part of a website redesign assignment.
